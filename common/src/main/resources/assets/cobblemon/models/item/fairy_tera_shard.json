@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "cobblemon:item/gimmick/fairy_tera_shard"
-  }
-}
